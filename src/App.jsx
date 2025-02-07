@@ -1,5 +1,5 @@
-import Counter from "./components/Counter"
-import CounterReducer from "./components/CounterReducer"
+import Counter from "./counter/Counter"
+import CounterReducer from "./counter/CounterReducer"
 
 const App = () => {
   return (
