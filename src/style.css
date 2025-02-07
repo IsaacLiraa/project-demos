@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.number {
+    font-size: 160px;
+    margin: 50% 50%;
+}
